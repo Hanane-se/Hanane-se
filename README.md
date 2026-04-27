@@ -1,5 +1,5 @@
 ## I am actually a computer science engineering student, specializing in Management & Governance of Information Systems.
-- 🌱 I’m currently learning Web Development in the stack [PHP, Laravel, JavaScript]
+- 🌱 I’m currently learning Web Development with [PHP, Laravel, JavaScript, REST API, AJAX]
 <!--
 **Hanane-se/Hanane-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
