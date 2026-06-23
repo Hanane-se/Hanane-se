@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Salam Aalaykum, I'm Hanane El Hilali
 
-I am a first-year Engineering Student specializing in **Management and Governance of Information Systems (MGSI)** at ENSIASD. I am passionate about backend development, robust database architecture, and cybersecurity. I aim at building secure, scalable applications and continuously expanding my technical toolkit.
+I am a first-year Engineering Moroccan Student specializing in **Management and Governance of Information Systems (MGSI)** at ENSIASD. I am passionate about backend development, robust database architecture, and cybersecurity. I aim at building secure, scalable applications and continuously expanding my technical toolkit.
 
 ---
 
