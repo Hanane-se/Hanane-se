@@ -38,4 +38,4 @@ I am a first-year Engineering Student specializing in **Management and Governanc
 
 
 <!-- Optional: GitHub Stats Badges -->
-[](https://github-readme-stats.vercel.app/api?username=hanane-se&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=hanane-se&show_icons=true&theme=radical)
