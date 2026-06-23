@@ -20,7 +20,7 @@ I am a first-year Engineering Student specializing in **Management and Governanc
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 *   **Backend Development:** PHP, Java
 *   **Databases & Architecture:** SQL, MySQL, Relational Database Design & Normalization
@@ -28,7 +28,7 @@ I am a first-year Engineering Student specializing in **Management and Governanc
 
 ---
 
-### 🚀 Projects & Focus Areas
+###  Projects & Focus Areas
 
 *   **Secure Backend Systems:** Developing robust applications in Java and PHP, focusing on access control modules and secure database management.
 *   **Information Systems Governance:** Aligning technical solutions with quality management, IT governance standards, and system security audits.
@@ -38,4 +38,4 @@ I am a first-year Engineering Student specializing in **Management and Governanc
 
 
 <!-- Optional: GitHub Stats Badges -->
-<![](https://github-readme-stats.vercel.app/api?username=hanane-se&show_icons=true&theme=radical)
+[](https://github-readme-stats.vercel.app/api?username=hanane-se&show_icons=true&theme=radical)
