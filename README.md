@@ -38,4 +38,4 @@ I am a first-year Engineering Moroccan Student specializing in **Management and 
 
 
 <!-- Optional: GitHub Stats Badges -->
-![](https://github-readme-stats.vercel.app/api?username=hanane-se&show_icons=true&theme=radical)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanane-se&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
