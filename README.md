@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Salam Aalaykum, I'm Hanane
+<!-- # Salam Aalaykum, I'm Hanane -->
 
-I am a first-year Engineering Student specializing in **Management and Governance of Information Systems**. I am passionate about backend development, robust database architecture, and cybersecurity. I aim at building secure, scalable applications and continuously expanding my technical toolkit.
+I am Hanane, a first-year Engineering Student specializing in **Management and Governance of Information Systems**. I am passionate about backend development, robust database architecture, and cybersecurity. I aim at building secure, scalable applications and continuously expanding my technical toolkit.
 
 ---
 
