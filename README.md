@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- # Salam Aalaykum, I'm Hanane -->
 
-I am Hanane, a first-year Engineering Student specializing in **Management and Governance of Information Systems**. I am passionate about backend development, robust database architecture, and cybersecurity. I aim at building secure, scalable applications and continuously expanding my technical toolkit.
 
----
-
+<!--
 ###  Technical Skills
 
 *   **Backend Development:** PHP, Java
@@ -35,6 +33,16 @@ I am Hanane, a first-year Engineering Student specializing in **Management and G
 *   **Continuous Learning:** Linux enthusiast, always exploring new ways to secure data and optimize workflows.
 
 ---
+-->
+<div align="center">
+
+  # I'm Hanane!
+  ### A passionate Information Systems Engineering Student | Junior Full-Stack developer | AI/ML enthusiast | Linux user | Mint distribution
 
 
+
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
+
+</div>
+---
 ![GitHubCard](https://githubcard.com/hanane-se.svg)
