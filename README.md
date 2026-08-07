@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   # I'm Hanane!
-  ### A passionate Information Systems Engineering Student | Junior Full-Stack developer | AI/ML enthusiast | Linux user | Mint distribution
+  ### A passionate Information Systems Engineering Student | Junior Full-Stack developer | Java | PHP | JavaScript | Linux user | Mint distribution
 
 
 
