@@ -44,5 +44,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
 
 </div>
----
+
 ![GitHubCard](https://githubcard.com/hanane-se.svg)
