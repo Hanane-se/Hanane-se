@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 
 
- <img src="https://api.iconify.design/lucide:laptop.svg" height="30" alt="Laptop Logo" />
+<img src="https://api.iconify.design/simple-icons:linuxmint.svg" height="30" alt="Linux Mint Logo" />
+
 </div>
 
 ![GitHubCard](https://githubcard.com/hanane-se.svg)
