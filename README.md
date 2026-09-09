@@ -2,7 +2,7 @@
 <div align="center">
 
   # I'm Hanane!
-  ### A passionate Information Systems Engineering Student | Junior Full-Stack developer | Java | PHP | JavaScript
+  ### A passionate Information Systems Engineering Student | Junior Full-Stack developer | Java | PHP | JavaScript | Python
 
 
 <!--<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />-->
